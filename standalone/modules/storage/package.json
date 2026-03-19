@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.1137.0",
-    "file-type": "^17.1.1",
+    "file-type": "^21.3.2",
     "fs-extra": "^10.0.0",
     "rxjs": "^7.5.2"
   },
